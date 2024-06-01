@@ -14,7 +14,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <Authenticator />
-                <h2>My App Content</h2>
+                <h2>My App Content hello here</h2>
             </header>
         </div>
     );
