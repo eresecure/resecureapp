@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-resecurereactapp-dev-b25d6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::316037075510:role/amplify-resecurereactapp-dev-b25d6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::316037075510:role/amplify-resecurereactapp-dev-b25d6-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-resecurereactapp-dev-b25d6-deployment",
+      "UnauthRoleName": "amplify-resecurereactapp-dev-b25d6-unauthRole",
+      "StackName": "amplify-resecurereactapp-dev-b25d6",
+      "StackId": "arn:aws:cloudformation:us-west-2:316037075510:stack/amplify-resecurereactapp-dev-b25d6/cbce5460-1fa0-11ef-9df9-02fef438ada5",
+      "AmplifyAppId": "d2kgiixb7f1lpe"
+    },
+    "categories": {
+      "auth": {
+        "resecurereactapp2f3d35d9": {},
+        "resecurereactappda0a0af0": {}
+      }
+    }
+  }
+}
